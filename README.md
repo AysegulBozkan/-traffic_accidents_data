@@ -15,3 +15,8 @@ ukTrafficAADF.csv tracks how much traffic there was on all major roads in the gi
 
 
 Accidents data is split across three CSV files: accidents_2005_to_2007.csv, accidents_2009_to_2011.csv, and accidents_2012_to_2014.csv. These three files together constitute 1.6 million traffic accidents. The total time period is 2005 through 2014, but 2008 is missing.
+
+data file
+
+
+https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales 
